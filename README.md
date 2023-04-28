@@ -8,9 +8,9 @@ Le projet **libft** est le premier projet du cursus de l'ecole 42, il consiste �
 
 ## Utilisation
 
-Pour utiliser la bibliothèque **libft**, vous devez la compiler en une bibliothèque statique (libft.a). Pour ce faire, vous pouvez exécuter la commande **make** à la racine du projet.
+Pour utiliser la bibliothèque **libft**, il faut la compiler en une bibliothèque statique (libft.a). Pour ce faire, on peux exécuter la commande **make** à la racine du projet.
 
-Une fois la bibliothèque compilée, vous pouvez l'utiliser en incluant le fichier libft.h dans votre code source et en liant votre programme avec libft.a lors de la compilation.
+Une fois la bibliothèque compilée, on peux l'utiliser en incluant le fichier libft.h dans notre code source et en liant notre programme avec libft.a lors de la compilation.
 
 ## Fonctions
 
