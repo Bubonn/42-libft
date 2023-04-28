@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Le projet **libft** consiste à recréer un certain nombre de fonctions standard de la bibliothèque C, ainsi que quelques fonctions supplémentaires qui seront utilisées tout au long du cursus à 42. Le but de ce projet est de nous apprendre à bien comprendre comment fonctionnent ces fonctions, à les implémenter nous-mêmes et à les utiliser efficacement.
+Le projet **libft** est le premier projet du cursus de l'ecole 42, il consiste à recréer un certain nombre de fonctions standard de la bibliothèque C, ainsi que quelques fonctions supplémentaires qui seront utilisées tout au long du cursus à 42. Le but de ce projet est de nous apprendre à bien comprendre comment fonctionnent ces fonctions, à les implémenter nous-mêmes et à les utiliser efficacement.
 
 ## Utilisation
 
