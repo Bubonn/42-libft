@@ -1,5 +1,7 @@
 # Libft
 
+[![jdubilla's 42 Libft Score](https://badge42.vercel.app/api/v2/clh0zpc7j005408l9j6q6srae/project/2422752)](https://github.com/JaeSeoKim/badge42)
+
 ## Introduction
 
 Le projet **libft** consiste à recréer un certain nombre de fonctions standard de la bibliothèque C, ainsi que quelques fonctions supplémentaires qui seront utilisées tout au long du cursus à 42. Le but de ce projet est de nous apprendre à bien comprendre comment fonctionnent ces fonctions, à les implémenter nous-mêmes et à les utiliser efficacement.
